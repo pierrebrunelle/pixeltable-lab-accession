@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Lab Accession API built with Pixeltable"
+abstract: "Lab sample accession queue API: three related tables, parallel writers and racing claims."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-lab-accession"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-07
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "concurrency"
+  - "laboratory"
+  - "work-queue"
+  - "data-pipeline"
+  - "cloud"
+  - "fastapi"
+  - "multimodal"
